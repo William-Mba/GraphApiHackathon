@@ -8,7 +8,7 @@ namespace GraphApiHackathon
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(".NET Core Graph Tutorial\n");
+            Console.WriteLine(".NET Core Graph Api Hackathon\n");
 
             var appConfig = LoadAppSettings();
 
